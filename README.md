@@ -45,7 +45,7 @@ python3 -m venv .venv
 ### Cài đặt cho user
 
 - **macOS**: giải nén → kéo `QR Generator.app` vào `Applications` → **right-click → Open** (lần đầu, vì chưa ký số)
-- **Windows**: giải nén → double-click `QR Generator.exe` → nếu SmartScreen cảnh báo: **More info → Run anyway**
+- **Windows**: giải nén → mở folder `QR Generator/` → double-click `QR Generator.exe` → nếu SmartScreen cảnh báo: **More info → Run anyway**. Lưu ý: không tách `.exe` ra khỏi folder, nó cần các file DLL bên trong để chạy.
 
 ## Quy trình dùng app
 
